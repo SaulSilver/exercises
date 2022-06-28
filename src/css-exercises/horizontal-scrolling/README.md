@@ -1,6 +1,6 @@
 # Horizontal scrolling layout
 
-The final result should achieve the following layout
+Mainly for mobile layout but also applicable for different viewports. The final result should achieve the following layout
 
 [![Image from Gyazo](https://i.gyazo.com/c0a9111efbd85b1aee941aff3c814d53.gif)](https://gyazo.com/c0a9111efbd85b1aee941aff3c814d53)
 
