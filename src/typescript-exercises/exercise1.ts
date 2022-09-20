@@ -1,4 +1,5 @@
 /*
+Hai, thez iz a taipo
 
 Welcome to:
 
