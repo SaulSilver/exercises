@@ -4,6 +4,7 @@
   "description": "Knuckle-cracking exercises to practice my typescript",
   "main": "index.js",
   "scripts": {
+    "start": "ts-node src/typescript-exercises/exercise1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
