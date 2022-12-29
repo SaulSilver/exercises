@@ -23,7 +23,5 @@
     "ts-node": "^10.8.0",
     "typescript": "^4.7.2"
   },
-  "dependencies": {
-    "three": "^0.146.0"
-  }
+  "dependencies": {}
 }
